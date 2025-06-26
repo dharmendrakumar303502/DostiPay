@@ -127,3 +127,6 @@ export default function InsightsPage() {
     </div>
   );
 }
+
+
+import { getInsightsAction } from '@/actions/getInsightsAction';
